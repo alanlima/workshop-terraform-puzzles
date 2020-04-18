@@ -1,5 +1,11 @@
 ## [02 - Never Tell Me the Odds](https://github.com/hashicorp/workshop-puzzles/tree/master/02_Never_Tell_Me_the_Odds)
 
+# Challenges
+
+- [x] Create a resource to generate a random number between 1 and 6.
+- [x] Create a resource to generate a random number between 1 and 20.
+- [x] Create a resource to generate a random number between 1 and 20 with 20% of chance of critical hit and rolls a 20 when that happens.
+
 # Commands
 
 ```bash
