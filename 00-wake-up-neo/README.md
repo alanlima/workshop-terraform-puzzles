@@ -1,5 +1,9 @@
 ## [00 - Wake Up Neo](https://github.com/hashicorp/workshop-puzzles/tree/master/00_Wake_Up_Neo)
 
+# Challenges
+
+- [x] Write a terraform code that install the **cmatrix** package.
+
 # Setup
 
 Before you begin this challenge please run the following commands to set up your keyboard configuration.
