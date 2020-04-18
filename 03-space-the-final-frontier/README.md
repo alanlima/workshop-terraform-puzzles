@@ -1,5 +1,9 @@
 ## [03 - Space the Final Frontier](https://github.com/hashicorp/workshop-puzzles/tree/master/03_Space_the_Final_Frontier)
 
+# Challenges
+
+- [x] Create a resource to fetch the most recent weather forecast from NASA's [Insight Weather Station](https://mars.nasa.gov/insight/weather/) at Elysim Planita and output its minimum and maximum temperature.
+
 # Setup
 
 1. Generate the API Key on [NASA API's Web Site](https://api.nasa.gov/)
